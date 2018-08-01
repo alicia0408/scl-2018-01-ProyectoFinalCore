@@ -29,7 +29,11 @@ let properties = {
 
 }*/
 
+<<<<<<< HEAD
 //Funcionalidad Parallax
 $(document).ready(function(){
     $('.parallax').parallax();
   }); */
+=======
+
+>>>>>>> dddaeac60dd9e1199d2712988c1793f01a97d6f0
